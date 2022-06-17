@@ -41,3 +41,5 @@ The dataset has 12 columns:
 **SVC**
 
 **MLPClassifier**
+
+**The best classifier was the KNN with 96.28**
