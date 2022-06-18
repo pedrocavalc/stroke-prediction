@@ -42,4 +42,4 @@ The dataset has 12 columns:
 
 **MLPClassifier**
 
-**The best classifier was the KNN with accuracy 96.28% **
+**The best classifier was the KNN with accuracy 96.28%**
